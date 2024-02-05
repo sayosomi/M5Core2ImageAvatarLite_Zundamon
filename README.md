@@ -1,0 +1,2 @@
+# M5Core2ImageAvatarLite_Zundamon
+Zundamon Image Avater for M5Core2ImageAvatarLite
